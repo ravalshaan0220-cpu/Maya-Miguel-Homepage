@@ -1,0 +1,220 @@
+body {
+    background-color: rgb(248, 92, 20);
+}
+
+.navigation_wrapper {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.pbs_logo_wrapper img {
+    height: 140px;
+}
+
+.games_wrapper {
+    background-color: #F80;
+    border: 3px solid black;
+    border-radius: 18px;
+    box-shadow: 0 0 2px #888;
+    height: 50px;
+    width: 50px;
+    margin-bottom: 20px;
+}
+
+.games_wrapper img {   
+    background-color: rgb(248, 92, 20);
+    border-radius: 18px;
+    box-shadow: 0 0 2px #888;
+    height: 50px;
+    width: 50px;
+}
+
+.games_wrapper p {
+    font-size: 20px;
+    margin-top: 2px;
+}
+
+.videos_wrapper {
+    background-color: #F80;
+    border: 3px solid black;
+    border-radius: 18px;
+    box-shadow: 0 0 2px #888;
+    height: 50px;
+    width: 50px;
+    margin-bottom: 20px;
+}
+
+.videos_wrapper img {
+    background-color: rgb(248, 92, 20);
+    border-radius: 18px;
+    box-shadow: 0 0 2px #888;
+    height: 50px;
+    width: 50px;
+}
+
+.videos_wrapper p {
+    font-size: 20px;
+    margin-top: 2px;
+}
+
+.friends_wrapper {
+    background-color: #F80;
+    border: 3px solid black;
+    border-radius: 18px;
+    box-shadow: 0 0 2px #888;
+    height: 50px;
+    width: 50px;
+    margin-bottom: 20px;
+}
+
+.friends_wrapper img {
+    background-color: rgb(248, 92, 20);
+    border-radius: 18px;
+    box-shadow: 0 0 2px #888;
+    height: 50px;
+    width: 50px;
+}
+
+.friends_wrapper p {
+    font-size: 20px;
+    margin-top: 2px;
+}
+
+.printables_wrapper {
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 18px;
+    box-shadow: 0 0 2px #888;
+    height: 50px;
+    width: 65px;
+    margin-bottom: 20px;
+}
+
+.printables_wrapper img {
+    background-color: white;
+    border-radius: 18px;
+    box-shadow: 0 0 2px #888;
+    height: 50px;
+    width: 50px;
+    margin-left: 8px;
+}
+
+.printables_wrapper p {
+    font-size: 20px;
+    margin-top: 2px;
+}
+
+.maya_and_miguel_logo_wrapper {
+    margin-bottom: 20px;
+}
+
+.maya_and_miguel_logo_wrapper img {
+    height: 200px;
+}
+
+.border_wrapper {
+    border-radius: 80px;
+    border: 10px solid #09ceff;
+    padding: 0px;
+    width: 1505px;
+    height: 450px;
+    margin: 0 auto;
+}
+
+.border_wrapper iframe {
+    border-radius: 80px;
+    padding: 0px;
+    width: 1505px;
+    height: 450px;  
+    margin: 0 auto; 
+}
+
+.pbs_footer {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.pbs_station {
+    border: 4px solid yellow;
+    width: 320px;
+    text-align: center;
+    height: 100px;
+    margin-top: -190px;
+}
+
+.pbs_station p {
+    color: white;
+    margin-top: 40px;
+}
+
+.pbs_station:hover {
+    background: rgb(14, 150, 204);
+    text-decoration: underline;
+}
+
+.pbs_sponsors {
+    margin-left: 590px;
+    margin-bottom: 330px;
+}
+
+.pbs_sponsors p {
+    color: rgb(250, 191, 28)
+}
+
+.pbs_pt {
+    margin-left: 420px;
+    margin-bottom: 120px;
+}
+
+.pbs_pt p {
+    font-family: "Coiny", system-ui;
+    color: rgb(236, 192, 47);
+    margin-bottom: 350px;
+}
+
+.scholastic_wrapper {
+    margin-left: 825px;
+    margin-top: -410px;
+}
+
+.scholastic_wrapper img {
+    height: 200px;
+}
+
+.domain_footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.copyright_domain {
+    margin-left: 120px;
+}
+
+.copyright_domain p {
+    color: yellow;
+    background-color: rgb(255, 154, 65);
+    border-style: inset;
+    border-color: white;
+}
+
+.cpb_footer {
+    margin-right: 230px;
+    margin-top: -230px;
+}
+
+.cpb_footer img {
+    height: 100px;
+}
+
+.seal_footer {
+    margin-left: 212px;
+    margin-top: -100px;
+}
+
+.seal_footer img {
+    height: 100px;
+}
+
